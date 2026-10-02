@@ -1,0 +1,6 @@
+[submodule "host/dotnet"]
+	path = host/dotnet
+	url = https://github.com/amiasea/enterprise-host-dotnet.git
+[submodule "core"]
+	path = api/core
+	url = https://github.com/amiasea/enterprise-core-api.git
