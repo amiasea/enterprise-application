@@ -1,9 +1,11 @@
 [submodule "host/dotnet"]
 	path = host/dotnet
 	url = https://github.com/amiasea/enterprise-host-dotnet.git
-[submodule "core"]
+	branch = .
+[submodule "api/core"]
 	path = api/core
 	url = https://github.com/amiasea/enterprise-core-api.git
+	branch = .
 [submodule "ui/react"]
 	path = ui/react
 	url = https://github.com/amiasea/enterprise-ui-react.git
