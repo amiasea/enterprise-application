@@ -4,7 +4,11 @@
 [submodule "core"]
 	path = api/core
 	url = https://github.com/amiasea/enterprise-core-api.git
-[submodule "react"]
+[submodule "ui/react"]
 	path = ui/react
 	url = https://github.com/amiasea/enterprise-ui-react.git
+  branch = .
+[submodule "ui/blazor"]
+	path = ui/blazor
+	url = https://github.com/amiasea/enterprise-ui-blazor.git
   branch = .
