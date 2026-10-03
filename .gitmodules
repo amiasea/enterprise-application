@@ -7,3 +7,4 @@
 [submodule "react"]
 	path = ui/react
 	url = https://github.com/amiasea/enterprise-ui-react.git
+  branch = .
