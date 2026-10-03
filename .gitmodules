@@ -4,3 +4,6 @@
 [submodule "core"]
 	path = api/core
 	url = https://github.com/amiasea/enterprise-core-api.git
+[submodule "react"]
+	path = ui/react
+	url = https://github.com/amiasea/enterprise-ui-react.git
