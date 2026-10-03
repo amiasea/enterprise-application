@@ -12,3 +12,7 @@
 	path = ui/blazor
 	url = https://github.com/amiasea/enterprise-ui-blazor.git
   branch = .
+[submodule "data/dotnet"]
+	path = data/dotnet
+	url = https://github.com/amiasea/enterprise-data-dotnet.git
+	branch = .
