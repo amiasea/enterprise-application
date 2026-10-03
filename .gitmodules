@@ -1,7 +1,3 @@
-[submodule "host/dotnet"]
-	path = host/dotnet
-	url = https://github.com/amiasea/enterprise-host-dotnet.git
-	branch = .
 [submodule "api/core"]
 	path = api/core
 	url = https://github.com/amiasea/enterprise-core-api.git
@@ -17,4 +13,8 @@
 [submodule "data/dotnet"]
 	path = data/dotnet
 	url = https://github.com/amiasea/enterprise-data-dotnet.git
+	branch = .
+[submodule "host/aspnet-wolverine"]
+	path = host/aspnet-wolverine
+	url = https://github.com/amiasea/enterprise-host-aspnet-wolverine.git
 	branch = .
